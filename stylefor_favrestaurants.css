@@ -3,7 +3,16 @@
     justify-content: space-evenly;
 }
 
-li {
+.img-fluid{
+    width: 200px;
+    height: 200px;
+}
+
+.page-header{
+    color:darkslateblue;
+}
+
+li.footer_item {
     list-style-type: none;
     display: inline;
 }
@@ -18,8 +27,4 @@ footer {
     text-align: center;
     display: inline;
     text-decoration: none;
-}
-
-.page-header{
-    color:deeppink;
 }
